@@ -1,0 +1,23 @@
+_repo: Harper-s-Round-Table-March-9-1897_60887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2019-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Children''s periodicals'
+- GITenberg
+title: Harper's Round Table, March 9, 1897
+url: http://www.gutenberg.org/ebooks/60887
